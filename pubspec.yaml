@@ -11,6 +11,25 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.6
   flutter_launcher_icons: ^0.13.1
+  flutter_bloc: ^8.1.4
+  bloc: ^8.1.3
+  get_it: ^7.6.7
+  injectable: ^2.3.5
+  injectable_generator: ^2.5.1
+  equatable: ^2.0.5
+  auto_route: ^7.9.0
+  auto_route_generator: ^7.3.2
+  freezed: ^2.4.7
+  json_annotation: ^4.8.1
+  freezed_annotation: ^2.4.1
+  easy_localization: ^3.0.5
+  easy_localization_loader: ^2.0.1
+  easy_localization_generator: ^0.3.2
+  dio: ^5.4.1
+  logger: ^2.1.0
+  json_serializable: ^6.7.1
+  flutter_gen_runner: ^5.4.0
+  build_runner: ^2.4.8
 
 dev_dependencies:
   flutter_test:
@@ -36,4 +55,9 @@ flutter:
   assets:
     - assets/localization/
     - assets/images/
+
+flutter_gen:
+  output: lib/core/gen/assets/
+  integrations:
+    flutter_svg: true
 
