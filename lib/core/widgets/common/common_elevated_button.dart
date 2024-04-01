@@ -19,7 +19,6 @@ class CommonElevatedButton extends StatelessWidget {
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(25), // <-- Radius
         ),
-        backgroundColor: const Color(0xFFDB3022),
       ),
       child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
         Center(child: child),

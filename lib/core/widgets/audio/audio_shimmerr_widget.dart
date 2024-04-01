@@ -3,8 +3,8 @@ import 'package:shimmer/shimmer.dart';
 
 import '../../gen/assets/assets.gen.dart';
 
-class AudiobookShimmerWidget extends StatelessWidget {
-  const AudiobookShimmerWidget({super.key});
+class AudioShimmerWidget extends StatelessWidget {
+  const AudioShimmerWidget({super.key});
 
   @override
   Widget build(BuildContext context) {

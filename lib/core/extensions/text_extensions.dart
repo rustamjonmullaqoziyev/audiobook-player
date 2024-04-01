@@ -6,13 +6,6 @@ extension TextStringExtensions on String {
   Text w(int weight) => Text(this).w(weight);
 
   Text c(Color color) => Text(this).c(color);
-
-  String clearSpaceInPhone() {
-    return replaceAll(' ', '')
-        .replaceAll('(', '')
-        .replaceAll(')', '')
-        .replaceAll('+', '');
-  }
 }
 
 extension TextStyleExtensions on TextStyle {

@@ -7,6 +7,6 @@ class AppRouter extends $AppRouter {
   List<AutoRoute> get routes => [
         AutoRoute(
             page: AudiobooksRoute.page, path: "/audiobooks", initial: true),
-        AutoRoute(page: AudiobookPlayerRoute.page, path: "/audiobook_player"),
+        AutoRoute(page: AudiobookRoute.page, path: "/audiobook"),
       ];
 }

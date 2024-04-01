@@ -2,11 +2,13 @@ import 'package:flutter/material.dart';
 
 import 'core/di/injection.dart';
 import 'core/router/app_router.dart';
+import 'core/service/audio_handle_service.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await configureDependencies();
+  await initAudioService();
 
   runApp(MyApp());
 }

@@ -23,6 +23,7 @@ class AudiobookResponse with _$AudiobookResponse {
     required String name,
     required String author,
     required String url,
+    required String image_url,
     required String description,
   }) = _AudiobookResponse;
 
