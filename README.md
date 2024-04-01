@@ -1,16 +1,26 @@
-# audiobook
+#Audiobook is sample project
 
-audiobook projects
+In project used: 
+[Flutter Bloc](https://pub.dev/packages/flutter_bloc),
+[Bloc](https://pub.dev/packages/bloc),
+[Get_it](https://pub.dev/packages/get_it)
+[Injectable](https://pub.dev/packages/injectable), 
+[Auto route](https://pub.dev/packages/auto_route), 
+[Dio](https://pub.dev/packages/dio),
+[Sqlite](https://pub.dev/packages/sqflite),
+[just_audio](https://pub.dev/packages/just_audio), 
+[audio_service](https://pub.dev/packages/audio_service),
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+| <img src="https://github.com/rustamjonmullaqoziyev/audiobook-player/blob/main/Screenshot_1.jpg" width="140"> 
+| <img src="https://github.com/rustamjonmullaqoziyev/audiobook-player/blob/main/Screenshot_2.jpg" width="140"> 
+| <img src="https://github.com/rustamjonmullaqoziyev/audiobook-player/blob/main/Screenshot_3.jpg" width="140"> 
+| <img src="https://github.com/rustamjonmullaqoziyev/audiobook-player/blob/main/Screenshot_4.jpg" width="140"> 
 
-A few resources to get you started if this is your first Flutter project:
+| <img src="https://github.com/rustamjonmullaqoziyev/audiobook-player/blob/main/Screenshot_5.jpg" width="140"> 
+| <img src="https://github.com/rustamjonmullaqoziyev/audiobook-player/blob/main/Screenshot_6.jpg" width="140"> 
+| <img src="https://github.com/rustamjonmullaqoziyev/audiobook-player/blob/main/Screenshot_7.jpg" width="140"> 
+| <img src="https://github.com/rustamjonmullaqoziyev/audiobook-player/blob/main/Screenshot_8.jpg" width="140"> 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
